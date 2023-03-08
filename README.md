@@ -1,5 +1,5 @@
 # UnityGrassShader
-HLSL grass shader made in UNITY
+HLSL grass shader made in Unity
 
 
 This Unity project is an extension of the marching cubes project from Sebastian League and grass shader provided by NedMakesGames that incorporates sampling several noise textures to apply wind and different grass blade colors to procedurally generated terrain:
